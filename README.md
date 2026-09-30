@@ -107,5 +107,4 @@ Possible future versions could add permanent storage, login, graphical interface
 ## Academic Relevance
 The project demonstrates problem decomposition, algorithms, flowcharts, functions, control flow, lists, tuples, sets, dictionaries, searching, counting, summation, validation, and basic algorithm analysis.
 
-## Author
-Student Project - Python / Problem Solving Course
+
